@@ -1,0 +1,69 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+a{
+	text-decoration: none;
+}
+a:hover {
+  color: #cc3311;
+}
+li{
+	list-style: none;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.cl{
+	clear: both;
+}
+.center{
+	width: 1200px;
+	margin: 0 auto;
+}
+a.more{
+	color: #555555;
+	margin: 0 20px;
+}
+a.more:hover{
+	color: #CC3311;
+}
+.h-title{
+	font-size: 24px;
+	line-height: 64px;
+	color: #909090;
+}
+.m-name{
+	color: #F1F1F1;
+	line-height: 34px;
+	width: 196px;
+	height: 28px;
+	position: absolute;
+	bottom: 20px;
+	padding-left: 4px;
+	overflow: hidden;
+	cursor: pointer;
+  	background: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(0,0,0,0)), to(rgba(0,0,0,0.6)));
+  background: -webkit-linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6));
+  background: -moz-linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6));
+  background: -o-linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6));
+  background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6));
+}
+.m-info{
+	font-size: 12px;
+	color:#BBBBBB;
+	line-height: 20px;
+	height: 20px;
+	background:rgba(0,0,0,0.6);
+	position: absolute;
+	bottom: 0;
+	width: 196px;
+	padding-left: 4px;
+	overflow: hidden;
+	cursor: pointer;
+}

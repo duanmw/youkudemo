@@ -1,0 +1,32 @@
+.footer{
+	border-top: 1px solid #E3E7E8;
+	padding-top: 20px;
+}
+.footer dl{
+	color: #555555;
+	float: left;
+}
+.footer #fo2{
+	margin-left: 120px;
+}
+.footer #fo3{
+	margin:0 120px;
+}
+.footer dd{
+	font-size: 12px;
+	line-height: 22px;
+}
+.footer a{
+	font-size: 12px;
+	color: #555555;
+}
+.footer a:hover{
+	color:#ff3c00;
+}
+.footer .authentication{
+	text-align: center;
+}
+.footer .authentication a{
+	display: inline-block;
+	margin: 20px;
+}

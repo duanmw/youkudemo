@@ -1,0 +1,111 @@
+.main{
+	margin: 20px auto;
+}
+.main .top .fl{
+	width: 600px;
+	line-height: 60px;
+}
+.main .top .fl li{
+	display: inline-block;
+	margin-right: 10px;
+	
+}
+.main .top .fl li a{
+	color: #555;
+}
+.main .top .fl li a:hover{
+	color:#ff3c00;
+}
+.main .top .show{
+	width: 100%;
+	margin: 22px 0;
+}
+.main .type-box{
+	border-bottom: 3px solid #E6E6E6;
+}
+.main .type-box .item{
+	width: 300px;
+	float: left;
+	margin: 0px;
+}
+.main .type-box .item .title{
+	font-weight: bold;
+	background-color: #F5F5F5;
+	padding: 2px 0 4px ;
+}
+.main .type-box .item span{
+	font-size: 12px;
+	padding: 4px 8px;
+	color: #FFFFFF;
+	background-color:#909090;
+}
+.main .type-box .item ul{
+	width: 230px;
+	padding: 8px 0;
+}
+.main .type-box .item li{
+	display: inline-block;
+	margin:4px 14px 4px 2px;
+}
+.main .type-box .item li a{
+	font-size: 12px;
+	color: #555555;
+}
+.main .type-box .item li a:hover {
+    color: #cc3311;
+}
+.main .tab-box {
+	width: 1250px;
+	margin: 30px 0;
+}
+.main .tab-box a{
+	margin-right: 46px;
+}
+.main .pre .fl{
+	width: 750px;
+}
+.main .pre .pre-mov{
+	float: left;
+	height: 112px;
+	margin-right: 50px;
+	margin-bottom: 46px;
+	position: relative;
+}
+.main .pre .pre-mov img{
+	width: 200px;
+}
+
+.main .pre .fr{
+	width: 450px;
+}
+.main .pre .fr .history{
+	color: #909090;
+	text-align: center;
+	line-height: 320px;
+}
+
+.main .guess .g-mov{
+	float: left;
+	height: 112px;
+	margin-right: 50px;
+	margin-bottom: 46px;
+	position: relative;
+}
+.main .guess .g-mov img{
+	width: 200px;
+}
+.main .guess .g-mov .m-name{
+	bottom: 0;
+}
+
+.main .m-show .sh-mov{
+	float: left;
+	height: 300px;
+	margin-right: 50px;
+	margin-bottom: 46px;
+	position: relative;
+
+}
+.main .m-show .sh-mov img{
+	width: 200px;
+}
